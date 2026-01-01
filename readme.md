@@ -4,6 +4,8 @@ The SMB Mount Service will mount or unmount any SMB shares that are included in 
 
 I created this script to provide a way for me to be able to mount or unmount my network shares as needed on my laptop.  I previously used /etc/fstab but had issues when I used my laptop not on my home network mainly on resuming from sleep after leaving home.  I could not find a solution so I made this.
 
+![NASmount menu](https://github.com/velvetnull/NASmount/blob/main/NASmountMenu.png)
+
 ## How to Use
 
 * Requirements:
